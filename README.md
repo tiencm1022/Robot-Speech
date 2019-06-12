@@ -13,19 +13,19 @@ CUDA <p>
 # GETTING STARTED
 Installing AI2-THOR using pip: <p>
  ```
-$ pip install ai2thor <p>
+$ pip install ai2thor
  ```
 Installing keyboard using pip: <p>
  ```
-$ pip install keyboard <p>
+$ pip install keyboard
  ```
 Installing SpeechRecognition using pip: <p>
  ```
-$ pip install SpeechRecognition<p>
+$ pip install SpeechRecognition
  ```
 Installing PyAudio using pip:<p>
  ```
-$ pip install PyAudio<p>
+$ pip install PyAudio
  ```
 Run robot.py<p>
 In the first time you run ai2thor, a file containing scenarios weighs about 500MB will be downloaded.<p>
@@ -41,10 +41,10 @@ Using keyboard to perform the following actions:<p>
 “up arrow” - Angle the agent’s view up in 30 degree increments.<p>
 “down arrow” - Angle the agent’s view down in 30 degree increments.<p>
 "t" - Begin recording voice input through microphone and use the input to perform above actions (With the inputs mentioned below).<p>
- *** This action will occur delay in recording and processing ***<p>
- *** Sometimes the result can be wrong and no action will be performed ***<p>
+ **This action will occur delay in recording and processing**<p>
+ **Sometimes the result can be wrong and no action will be performed**<p>
  "m" - Change from the current FloorPlan (Room/Scenario) to another.<p>
- *** FloorPlan: 0->30 ; 201->230 ; 301->330 ; 401->430 ***
+ **FloorPlan: 0->30 ; 201->230 ; 301->330 ; 401->430**
   
 # Voice inputs for controlling:
 Only the following speech input can be used to control:<p>
