@@ -12,13 +12,21 @@ CUDA <p>
 
 # GETTING STARTED
 Installing AI2-THOR using pip: <p>
+ ```
 $ pip install ai2thor <p>
+ ```
 Installing keyboard using pip: <p>
+ ```
 $ pip install keyboard <p>
+ ```
 Installing SpeechRecognition using pip: <p>
+ ```
 $ pip install SpeechRecognition<p>
+ ```
 Installing PyAudio using pip:<p>
+ ```
 $ pip install PyAudio<p>
+ ```
 Run robot.py<p>
 In the first time you run ai2thor, a file containing scenarios weighs about 500MB will be downloaded.<p>
 
