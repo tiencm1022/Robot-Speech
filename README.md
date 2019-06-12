@@ -32,7 +32,7 @@ Using keyboard to perform the following actions:<p>
 “right arrow” - Rotate the agent by 90 degrees to the right of its current facing.<p>
 “up arrow” - Angle the agent’s view up in 30 degree increments.<p>
 “down arrow” - Angle the agent’s view down in 30 degree increments.<p>
-"t" - Begin recording voice input through microphone and use the input to perform above actions.<p>
+"t" - Begin recording voice input through microphone and use the input to perform above actions (With the inputs mentioned below).<p>
  *** This action will occur delay in recording and processing ***<p>
  *** Sometimes the result can be wrong and no action will be performed ***<p>
  "m" - Change from the current FloorPlan (Room/Scenario) to another.<p>
