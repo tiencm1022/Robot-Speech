@@ -1,13 +1,13 @@
 # Robot-Speech
 Chu Minh Tiến - 16020287 <p>
-Controlling robot in Ai2thor with voice input
+Controlling robot in Ai2thor with voice input.
 
 # Requirements
 OS: Mac OS X 10.9+, Ubuntu 14.04+ <p>
 Graphics Card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities. <p>
 CPU: SSE2 instruction set support. <p>
 Python 2.7 or Python 3.5+ <p>
-Linux users: X server with GLX module enabled <p>
+Linux users: X server with GLX module enabled. <p>
 CUDA <p>
 
 # GETTING STARTED
@@ -19,8 +19,8 @@ Installing SpeechRecognition using pip: <p>
 $ pip install SpeechRecognition<p>
 Installing PyAudio using pip:<p>
 $ pip install PyAudio<p>
-Run robot.py
-In the first time you run ai2thor, a file containing scenarios weighs about 500MB will be downloaded.
+Run robot.py<p>
+In the first time you run ai2thor, a file containing scenarios weighs about 500MB will be downloaded.<p>
 
 # Actions
 Using keyboard to perform the following actions:<p>
