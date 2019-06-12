@@ -1,5 +1,4 @@
 import os
-import audio
 import micin
 
 def vc(key, action):

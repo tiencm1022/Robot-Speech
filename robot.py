@@ -9,7 +9,7 @@ if __name__ == "__main__":
 	controller = ai2thor.controller.Controller()
 	controller.start(player_screen_height=666, player_screen_width=666)
 	controller.reset('FloorPlan3')	
-	##FloorPlan: <=30 ; 201<=<=230 ; 301<=<=330 ; 401<=<=430
+	##FloorPlan: 0->30 ; 201->230 ; 301->330 ; 401->430
 	controller.step(dict(action='Initialize', gridSize=0.5))
 	print('Initialized')	
 	
