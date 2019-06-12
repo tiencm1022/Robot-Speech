@@ -37,8 +37,9 @@ Using keyboard to perform the following actions:<p>
  *** Sometimes the result can be wrong and no action will be performed ***<p>
  "m" - Change from the current FloorPlan (Room/Scenario) to another.<p>
  *** FloorPlan: 0->30 ; 201->230 ; 301->330 ; 401->430 ***
+  
 # Voice inputs for controlling:
-Only the following input can be used to control:<p>
+Only the following speech input can be used to control:<p>
 "đi thẳng" - Move the agent forward by gridSize.<p>
 “sang trái” - Move the agent left by gridSize.<p>
 “lùi về” - Move the agent backward by gridSize.<p>
