@@ -33,6 +33,17 @@ Using keyboard to perform the following actions:<p>
 “up arrow” - Angle the agent’s view up in 30 degree increments.<p>
 “down arrow” - Angle the agent’s view down in 30 degree increments.<p>
 "t" - Begin recording voice input through microphone and use the input to perform above actions.<p>
- *** This action will occur delay in recording and processing***<p>
+ *** This action will occur delay in recording and processing ***<p>
+ *** Sometimes the result can be wrong and no action will be performed ***<p>
  "m" - Change from the current FloorPlan (Room/Scenario) to another.<p>
  *** FloorPlan: 0->30 ; 201->230 ; 301->330 ; 401->430 ***
+# Voice inputs for controlling:
+Only the following input can be used to control:<p>
+"đi thẳng" - Move the agent forward by gridSize.<p>
+“sang trái” - Move the agent left by gridSize.<p>
+“lùi về” - Move the agent backward by gridSize.<p>
+“sang phải” - Move the agent right by gridSize.<p>
+“quay trái” - Rotate the agent by 90 degrees to the left.<p>
+“quay phải” - Rotate the agent by 90 degrees to the right.<p>
+“nhìn lên” - Angle the agent’s view up in 30 degree increments.<p>
+“nhìn xuống” - Angle the agent’s view down in 30 degree increments.<p>
